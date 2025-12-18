@@ -168,3 +168,16 @@ figcaption {
 .intro-text p {
   margin-bottom: 1em;  // Adds 1em space after each paragraph
 }
+
+.profile-image {
+  text-align: center;
+  margin: 2em auto 1em;
+  
+  img {
+    width: 200px;           // Set size
+    border-radius: 50%;     // Makes it circular
+    object-fit: cover;      // Crops nicely
+    display: block;
+    margin: 0 auto;
+  }
+}
