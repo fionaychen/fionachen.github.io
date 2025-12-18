@@ -18,9 +18,9 @@ email: fionayifeichen@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://fionaychen.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-icon: /assets/images/icon-512.png
-twitter_username: patdryburgh
-github_username:  patdryburgh
+icon: "/assets/images/peony-3.png"
+twitter_username: 
+github_username:  
 
 # Build settings
 markdown: kramdown
